@@ -1,0 +1,30 @@
+@media only screen and (min-width: 1200px) {
+
+  //***Features***//
+
+  .features {
+    padding: 0 0 60px;
+    .features-content {
+      justify-content: space-around;
+    }
+  }
+
+  //***Testimonials***//
+
+  .testimonials {
+    .test-global {
+      padding-top: 60px;
+      h3 {
+        margin-bottom: 30px;
+        line-height: 60px;
+      }
+      .fork {
+        width: 1120px;
+        margin: 0 auto;
+        li {
+          margin-bottom: 30px;
+        }
+      }
+    }
+  }
+}
